@@ -15,8 +15,8 @@ public class TrabajoGittHubb{
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int n1=30;
-        int n2=7;
+        int n1=3;
+        int n2=4;
         int resul;
         
         resul=n1*n2;
