@@ -15,13 +15,13 @@ public class TrabajoGittHubb{
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int n1=30;
-        int n2=7;
+        int n1=40;
+        int n2=2;
         int resul;
         
-        resul=n1*n2;
+        resul=n1/n2;
         
-        System.out.print("La multiplicación de " + n1 + " x " + n2 + " = " + resul);
+        System.out.print("La división de " + n1 + " / " + n2 + " = " + resul);
                 
                 }
 }
